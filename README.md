@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ynam-fo-eno (TMK)
 - 👀 I’m interested in mobile apps
 - 🌱 I’m currently learning as much as I can
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that'll build me.
 - 📫 How to reach me... baadaye 
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... Very strong bullet player on lichess (check out @kenyanMinato)
