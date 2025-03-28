@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ynam-fo-eno (TMK)
-- 👀 I’m interested in mobile apps
-- 🌱 I’m currently learning as much as I can
-- 💞️ I’m looking to collaborate on anything that'll build me.
-- 📫 How to reach me... baadaye 
-- 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... Very strong bullet player on lichess (check out @kenyanMinato)
+- 👋 Hi, I’m @ynam-fo-eno (Timothy M.K.)
+- I’m proficient in Flutter
+- I’m currently learning as much as I can about web development with Flask
+- I dabbled in game development using Zig 
+- Pronouns: ... He/him
+- Fun fact: ... Very strong bullet player on lichess (check out @kenyanMinato)
 
 <!---
 ynam-fo-eno/ynam-fo-eno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
